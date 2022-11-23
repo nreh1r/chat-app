@@ -6,9 +6,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "encoding": "^0.1.13",
     "next": "latest",
+    "next-auth": "^4.16.4",
+    "pusher": "^5.1.1-beta",
+    "pusher-js": "^7.5.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-timeago": "^7.1.0"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
