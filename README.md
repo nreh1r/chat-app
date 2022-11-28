@@ -2,7 +2,7 @@
 
 This chat app was built with the new Next.js 13 release. Building this app gave me deeper insight into the server vs client component structure of Next.js 13 and also how this allows for improved data fetching speeds and an increased UX. 
 
-This app was built using Next.js 13, Redis DB, Pusher, useSWR, and Tailwind CSS
+This app was built using Next.js 13, Next Middleware, Redis DB, Pusher, useSWR, Facebook Authentication, and Tailwind CSS
 
 #### Due to Next.js 13 being in beta, a live version is not stable and therefore will be made available once a stable deployment option is possible.
 
